@@ -5,11 +5,11 @@ int main()
 {
     cout<<"\nPrint Alphabets";
     cout<<"\n~~~~~~~~~~~~~~~";
-    char alphabet;
-    cout<<"\nWhat type of Alphabets do you want ? Capital or Small : ";
-    cin>>alphabet;
+    int choice;
+    cout<<"\nWhat type of Alphabets do you want?\n\n 1. Capital\n 2. Small \n Enter Your choice (1 or 2): ";
+    cin>>choice;
 
-    if(alphabet == 'c')
+    if(choice == 1)
     {
         for(char i = 'A'; i <= 'Z';i++)
         {
@@ -17,23 +17,7 @@ int main()
         }
         
     }
-    else if(alphabet == 'C')
-    {
-       for(char i = 'A'; i <= 'Z';i++)
-        {
-            cout<<i<<endl;
-        }
-
-    }
-    else if (alphabet == 'S')
-    {
-        for(char i = 'a'; i <= 'z';i++)
-        {
-            cout<<i<<endl;
-        }
-
-    }
-    else if (alphabet == 's')
+    else if (choice == 2)
     {
         for(char i = 'a'; i <= 'z';i++)
         {
@@ -42,8 +26,8 @@ int main()
     }
     else 
     {
-        cout<<"\nThis is a wrong type of Alphabet\n";
-        cout<<"\nChoose only between Capital and Small\n"<<endl;
+        cout<<"\nThis is a wrong choice\n";
+        cout<<"\nChoose only between 1 and 2\n"<<endl;
     }
     return 0;
 }
