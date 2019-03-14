@@ -11,4 +11,5 @@
 7. PrintBackCounting : Prints the back counting
 8. PrintTable : Prints the table of the number the user wants
 9. PrintEvenNumbers : Prints the even numbers
-10. AddingNaturalNumbers : Sums all digits till the number the user has puts
+10. AddingNaturalNumbers : Sums all digits till the number the user has put
+11. PrintAlphabets : Prints Capital or small alphabets as per user
