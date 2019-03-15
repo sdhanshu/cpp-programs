@@ -13,3 +13,4 @@
 9. PrintEvenNumbers : Prints the even numbers
 10. AddingNaturalNumbers : Sums all digits till the number the user has put
 11. PrintAlphabets : Prints Capital or small alphabets as per user
+12. PrintFactors : Prints the factors of anys number as per user
