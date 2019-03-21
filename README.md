@@ -14,4 +14,4 @@
 10. AddingNaturalNumbers : Sums all digits till the number the user has put
 11. PrintAlphabets : Prints Capital or small alphabets as per user
 12. PrintFactors : Prints the factors of any number as per user
-13. MenuDrivenAreaPer : A program to calculate the Area and Perimeter of different shapess
+13. MenuDrivenAreaPer : A program to calculate the Area and Perimeter of different shapes
