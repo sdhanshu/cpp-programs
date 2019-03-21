@@ -62,7 +62,7 @@ int main()
             cin >> base;
             cout<<"\nEnter the value of the Height of Triangle: ";
             cin >> height;
-            area = 1/2 * base * height;
+            area = 0.5 * base * height;
             cout<<"\nArea = "<< area << endl;
         }
         else if(choice2 == 2)
@@ -108,7 +108,7 @@ int main()
             area = length * bredth;
             cout<<"\nArea = "<< area << endl;
         }
-        else if(choice == 2)
+        else if(choice2 == 2)
         {
             int length;
             int bredth;
@@ -168,7 +168,7 @@ int main()
         {
             cout<<"\nYour option is wrong\nPress enter to continue: \n";
             getchar();
-            goto rectangle;
+            goto square;
         }
     }
     return 0;
