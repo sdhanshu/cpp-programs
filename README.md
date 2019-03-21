@@ -15,3 +15,6 @@
 11. PrintAlphabets : Prints Capital or small alphabets as per user
 12. PrintFactors : Prints the factors of any number as per user
 13. MenuDrivenAreaPer : A program to calculate the Area and Perimeter of different shapes
+14. HalfPyramid1 : Prints a Half Pyramid of Stars as per user
+15. HalfPyramid2 : Prints a Half Pyramid of Numbers as per user
+16. HalfPyramid3 : Prints a Half Pyramid of Alphabets as per user
