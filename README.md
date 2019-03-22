@@ -18,3 +18,6 @@
 14. HalfPyramid1 : Prints a Half Pyramid of Stars as per user
 15. HalfPyramid2 : Prints a Half Pyramid of Numbers as per user
 16. HalfPyramid3 : Prints a Half Pyramid of Alphabets as per user
+17. HalfPyramid4 : Prints an Inverted Half Pyramid of Stars as per user
+18. HalfPyramid5 : Prints an Inverted Half Pyramid of Numbers as per user
+19. HalfPyramid6 : Prints a Floyd's Triangle Half Pyramid as per user
