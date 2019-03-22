@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     int height;
-    int number = 1;
+    int number = 0;
     cout<<"\nHow much Height do you want for your Floyd's Inverted Half Pyramid ? ";
     cin>> height;
     for(int i = 1; i <= height; i++)
