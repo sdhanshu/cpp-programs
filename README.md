@@ -22,3 +22,8 @@
 18. HalfPyramid5 : Prints an Inverted Half Pyramid of Numbers as per user
 19. HalfPyramid6 : Prints a Floyd's Triangle Half Pyramid as per user
 20. SumOfFiveNumbersUsingArray : Prints the sum of Five numbers using Array
+21. PrintOddNumbers : Prints the Odd Numbers
+22. Pyramid1 : Prints a Pyramid of Stars as per user
+23. Pyramid2 : Prints a Pyramid of Numbers as per user
+24. Pyramid3 : Prints a Pyramid of Numbers in a different form as per user
+25. Pyramid4 : Prints a Floyd's Triangle Pyramid as per user
