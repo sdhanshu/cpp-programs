@@ -5,8 +5,8 @@ using namespace std;
 int main()
 {
     home:
-    cout<<"\nArea and Perimeter";
-    cout<<"\n__________________"<< endl;
+    cout<<"\nWelcome To Area and Perimeter";
+    cout<<"\n_____________________________"<< endl;
     int choice, choice2;
     float area, perimeter;
     cout<<"\nOf which shape do you want to find Area or Perimeter ?\n\n 1. Circle\n 2. Triangle\n 3. Rectangle\n 4. Square\n\nEnter Your Choice (1, 2, 3 and 4) : ";

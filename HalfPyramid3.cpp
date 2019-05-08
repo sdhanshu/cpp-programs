@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     char height;
-    cout<<"\nEnter the Alphabet till you want your Pyramid: ";
+    cout<<"\nEnter the Alphabet till you want your Half Pyramid: ";
     cin>> height;
     for(char i = 'A'; i <= height; i++)
     {
